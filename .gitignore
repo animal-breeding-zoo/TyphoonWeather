@@ -1,0 +1,10 @@
+*/.DS_Store
+**/.DS_Store
+**/*.properties
+**/resources/
+**/target/
+*.iml
+*/target/
+.idea/
+out/
+
